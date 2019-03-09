@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # A selection of projects for teaching myself machine learning and general Python skills
 
 ## [Coursera Machine Learning](https://github.com/jbf81tb/Machine_learning_projects/tree/master/Coursera_machine_learning)
